@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Contacts.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Contacts.Abstractions.IContacts">
+            <summary>
+            Interface for Contacts
+            </summary>
+        </member>
+    </members>
+</doc>

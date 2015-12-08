@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsTest", "ContactsTest.csproj", "{1314389C-64AC-4CB5-9B9C-94B2EF516509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsTest.iOS", "iOS\ContactsTest.iOS.csproj", "{F026273C-9506-4F39-AE8A-4A17F2CD623E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsTest.Droid", "Droid\ContactsTest.Droid.csproj", "{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|iPhone.Build.0 = Release|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{1314389C-64AC-4CB5-9B9C-94B2EF516509}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|iPhone.Build.0 = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{55CB99F3-B0A6-49A1-B6B1-9D2FD8882C85}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|Any CPU.Build.0 = Release|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|iPhone.Build.0 = Release|iPhone
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F026273C-9506-4F39-AE8A-4A17F2CD623E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

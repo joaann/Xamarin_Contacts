@@ -1,0 +1,16 @@
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/ContactsTest.iOS.exe
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/ContactsTest.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Plugin.Contacts.Abstractions.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.Xml.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.Core.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/mscorlib.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Plugin.Contacts.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/System.Net.Http.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll

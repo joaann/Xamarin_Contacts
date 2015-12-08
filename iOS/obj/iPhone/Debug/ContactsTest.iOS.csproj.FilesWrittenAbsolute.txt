@@ -1,0 +1,17 @@
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/actool/partial-info.plist
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/build-iphone4.1-9.1/actool/asset-manifest.plist
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/optimized/
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/ContactsTest.iOS.exe.mdb
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/ContactsTest.iOS.exe
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/ContactsTest.iOS.exe
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/obj/iPhone/Debug/ContactsTest.iOS.exe.mdb
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Plugin.Contacts.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/Plugin.Contacts.Abstractions.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/ContactsTest.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/iOS/bin/iPhone/Debug/ContactsTest.dll.mdb

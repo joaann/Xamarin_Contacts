@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Contacts</name>
+    </assembly>
+    <members>
+        <member name="M:Plugin.Contacts.AddressBook.Load(System.String)">
+            <summary>
+            Attempts to load a contact for the specified <paramref name="id"/>.
+            </summary>
+            <param name="id"></param>
+            <returns>The <see cref="T:Plugin.Contacts.Abstractions.Contact"/> if found, <c>null</c> otherwise.</returns>
+            <exception cref="T:System.ArgumentNullException"><paramref name="id"/> is <c>null</c>.</exception>
+            <exception cref="T:System.ArgumentException"><paramref name="id"/> is empty.</exception>
+        </member>
+        <member name="T:Plugin.Contacts.ContactsImplementation">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+        <member name="P:Plugin.Contacts.ITableFinder.DefaultTable">
+            <summary>
+            Gets the default table (content hierarchy root).
+            </summary>
+        </member>
+        <member name="M:Plugin.Contacts.ITableFinder.IsSupportedType(System.Type)">
+            <summary>
+            Gets whether the <paramref name="type"/> is a supported type for this finder.
+            </summary>
+            <param name="type">The type to check.</param>
+            <returns><c>true</c> if the <paramref name="type"/> is supported, <c>false</c> otherwise.</returns>
+        </member>
+        <member name="M:Plugin.Contacts.ITableFinder.GetColumn(System.Reflection.MemberInfo)">
+            <summary>
+            Gets the Android column name for the model's member.
+            </summary>
+            <param name="memberInfo">The <see cref="T:System.Reflection.MemberInfo"/> for the model's member.</param>
+            <returns>Android column name for the model's member, <c>null</c> if unknown.</returns>
+        </member>
+        <member name="T:Plugin.Contacts.CrossContacts">
+            <summary>
+            Cross platform Contacts implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Contacts.CrossContacts.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

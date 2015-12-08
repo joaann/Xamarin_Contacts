@@ -1,0 +1,10 @@
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/Xamarin.Forms.Core.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/Plugin.Contacts.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/Plugin.Contacts.Abstractions.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/ContactsTest.dll.mdb
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/bin/Debug/ContactsTest.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/obj/Debug/ContactsTest.dll
+/Users/appdeveloperxlent/Documents/phonegapprojects/joakimexjobbtest/ContactsTest/obj/Debug/ContactsTest.dll.mdb

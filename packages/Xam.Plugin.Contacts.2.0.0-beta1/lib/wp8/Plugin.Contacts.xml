@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Contacts</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Contacts.ContactsImplementation">
+            <summary>
+            Implementation for Contacts
+            </summary>
+        </member>
+        <member name="T:Plugin.Contacts.CrossContacts">
+            <summary>
+            Cross platform Contacts implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Contacts.CrossContacts.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>
